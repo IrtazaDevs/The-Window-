@@ -1,4 +1,4 @@
-#  The Window - MR Portal Concept for Meta Quest 3🌌🏞️
+#  The Window Portal - MR - Quest 3🌌🏞️
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e5802c43-3700-4586-9430-3122dd5d6862" alt="Look out the Window - MR Portal" width="450"/>
