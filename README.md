@@ -1,7 +1,7 @@
 # Look out the Window - MR Portal 🌌🏞️
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e5802c43-3700-4586-9430-3122dd5d6862" alt="Look out the Window - MR Portal" width="350"/>
+  <img src="https://github.com/user-attachments/assets/e5802c43-3700-4586-9430-3122dd5d6862" alt="Look out the Window - MR Portal" width="450"/>
 </p>
 
 ## Overview
