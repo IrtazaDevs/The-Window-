@@ -6,11 +6,11 @@
 
 ## Overview
 
-Welcome to **Look out the Window - MR Portal**! This mixed reality application is designed specifically for the Meta Quest 3 platform. Built using the Meta SDK, Meta Building Blocks, stencil shaders, and the Mixed Reality Utility Kit by Meta, this project transforms your window view into an immersive and dynamic experience.
+ Do you get bored of looking at the same view when you look out the window of your room. The idea of this app is to help you change that. This mixed reality application is designed specifically for the Meta Quest 3 platform. Built using the Meta SDK, Meta Building Blocks, stencil shaders, and the Mixed Reality Utility Kit by Meta, this project transforms your window view into an immersive and dynamic experience.
 
 ### Concept
 
-Imagine changing the view outside your window to something extraordinary. With **Look out the Window - MR Portal**, you can switch between two stunning scenes:
+Imagine changing the view outside your window to something extraordinary. With this app, you can switch between two stunning scenes:
 
 - **Switzerland**: Enjoy the breathtaking landscapes of Switzerland right from your room.
 - **Galaxy View**: Gaze into the cosmos with a mesmerizing view captured by the James Webb Telescope.
