@@ -1,7 +1,7 @@
-#  The Window Portal - MR - Quest 3🌌🏞️
+# The Window Portal - MR - Quest 3 🌌🏞️
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e5802c43-3700-4586-9430-3122dd5d6862" alt="Look out the Window - MR Portal" width="450"/>
+  <img src="https://github.com/user-attachments/assets/e5802c43-3700-4586-9430-3122dd5d6862" alt="The Window Portal - MR" width="450"/>
 </p>
 
 ## Overview
@@ -35,6 +35,14 @@ This project is built with the following tools and frameworks:
 1. **Setup**: Install the application on your Meta Quest 3 and set up the window view scene.
 2. **Switch Views**: Use the in-app controls to toggle between the Switzerland landscape and the galaxy view.
 3. **Enjoy**: Experience a new, captivating view every time you look out the window.
+
+### Video Demo
+
+<p align="center">
+  <a href="https://youtu.be/1nRmVhS1fA4" target="_blank">
+    <img src="https://img.youtube.com/vi/1nRmVhS1fA4/0.jpg" alt="Video Demo" width="500"/>
+  </a>
+</p>
 
 ### Benefits
 
