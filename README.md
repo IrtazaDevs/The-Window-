@@ -6,7 +6,7 @@
 
 ## Overview
 
- Do you get bored of looking at the same view when you look out the window of your room. The idea of this app is to help you change that. This mixed reality application is designed specifically for the Meta Quest 3 platform. Built using the Meta SDK, Meta Building Blocks, stencil shaders, and the Mixed Reality Utility Kit by Meta, this project transforms your window view into an immersive and dynamic experience.
+**Do you get bored of looking at the same view when you look out the window of your room?** The idea of this app is to help you change that. This mixed reality application is designed specifically for the Meta Quest 3 platform. Built using the Meta SDK, Meta Building Blocks, stencil shaders, and the Mixed Reality Utility Kit by Meta, this project transforms your window view into an immersive and dynamic experience.
 
 ### Concept
 
